@@ -15,7 +15,7 @@ Köln is a basic Shell script for host discovery and web discovery. It takes an 
 
 Run this in the Linux command prompt:
 
-`chmod +x .-Koln.sh`
+`chmod +x ./Koln.sh`
 
 `./Koln.sh`
 
@@ -35,7 +35,7 @@ Köln es un script básico en Shell para descubrir hosts y servicios web. Toma u
   
   Corre estos comandos en la terminal de comandos de Linux:
   
-  `chmod +x .-Koln.sh`
+  `chmod +x ./Koln.sh`
 
 `./Koln.sh`
 
