@@ -27,7 +27,7 @@ Glory is our **BLOOD**
 
 ### Spanish.
 
-El poderoso Crucero Ligero clase Königsberg ha llegado y está lista para el servicio.
+El poderoso Crucero Ligero clase Königsberg, Köln, ha llegado y está lista para el servicio.
 
 Köln es un script básico en Shell para descubrir hosts y servicios web. Toma un rango de IP/CIDR, pingea cada una en el rango y las guarda en un archivo llamado "alive_hosts.txt" listo para ser usado por NMAP o algun otro escáner de IP's. Después, toma las mismas IP's y comienza a escanear buscando servicios web en puertos 80 u 8080 de cada host y redirige los resultados a la terminal y crea otro archivo llamado "web_hosts.txt" (ambos archivos son creados dentro del directorio actual)
 
